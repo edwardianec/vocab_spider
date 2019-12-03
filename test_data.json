@@ -1,0 +1,115 @@
+[
+	{'word': 'beseech', 'part': 'verb', 'sound': '/media/english/uk_pron/u/ukb/ukben/ukbenev027.mp3', 'transcription': '/bɪˈsiːtʃ/', 'meanings': [
+			{'short_meaning': '', 'levels': [
+					{'examples': ['Stay a little longer, I beseech you!'
+						], 'ru': '', 'name': '', 'definition': 'to ask for something in a way that shows you need it very much:'
+					}
+				]
+			}
+		]
+	},
+	{'word': 'spoil', 'part': 'verb', 'sound': '/media/english-russian/uk_pron/u/uks/ukspl/uksplee019.mp3', 'transcription': '/spɔɪl/', 'meanings': [
+			{'short_meaning': 'MAKE BAD [ T
+				]', 'levels': [
+					{'examples': ['The picnic was spoiled by the bad weather.'
+						], 'ru': 'портить', 'name': 'B1', 'definition': 'to stop something from being enjoyable or successful'
+					}
+				]
+			},
+			{'short_meaning': 'CHILD [ T
+				]', 'levels': [
+					{'examples': [], 'ru': 'баловать', 'name': '', 'definition': 'If you spoil a child, you let them have anything they want or do anything they want, usually making them badly behaved.'
+					}
+				]
+			},
+			{'short_meaning': 'TREAT WELL [ T
+				]', 'levels': [
+					{'examples': [
+							"He's always sending flowers - he absolutely spoils me!"
+						], 'ru': 'баловать', 'name': '', 'definition': 'to treat someone very well, buying them things or doing things for them'
+					}
+				]
+			},
+			{'short_meaning': 'FOOD [ I
+				] formal', 'levels': [
+					{'examples': [], 'ru': 'портиться, гнить', 'name': '', 'definition': 'If food spoils, it starts to decay and you cannot eat it.'
+					}
+				]
+			}
+		]
+	},
+	{'word': 'mean', 'part': 'verb', 'sound': '/media/english-russian/uk_pron/u/ukm/ukmcc/ukmccar016.mp3', 'transcription': '/miːn/', 'meanings': [
+			{'short_meaning': 'MEANING', 'levels': [
+					{'examples': [
+							"What does 'perpendicular' mean?", 'The red light means stop.'
+						], 'ru': 'значить', 'name': 'A2', 'definition': 'to have a particular meaning'
+					}
+				]
+			},
+			{'short_meaning': 'EXPRESS', 'levels': [
+					{'examples': [
+							"I didn't mean that as a criticism.",
+							"What exactly do you mean by 'old-fashioned'?"
+						], 'ru': 'иметь в виду', 'name': 'B1', 'definition': 'to intend to express a fact or opinion'
+					}
+				]
+			},
+			{'short_meaning': 'mean to do sth', 'levels': [
+					{'examples': [
+							"I didn't mean to hurt her."
+						], 'ru': 'намереваться, хотеть что-либо сделать', 'name': 'B1', 'definition': 'to intend to do something'
+					}
+				]
+			},
+			{'short_meaning': 'RESULT', 'levels': [
+					{'examples': ['These changes will mean better health care for everyone.',
+							"[ + (that) ] It doesn't mean that you can stop working."
+						], 'ru': 'означать', 'name': 'B1', 'definition': 'to have a particular result'
+					}
+				]
+			},
+			{'short_meaning': 'SERIOUS', 'levels': [
+					{'examples': [
+							"I'll take that sandwich away if you don't eat it properly - I mean it!"
+						], 'ru': 'не шутить, говорить серьезно', 'name': '', 'definition': 'to be serious about something that you have said'
+					}
+				]
+			},
+			{'short_meaning': 'IMPORTANT', 'levels': [
+					{'examples': [
+							"You don't know what it means to me to get this letter.", 'Their support has meant a lot to us.'
+						], 'ru': 'значить, иметь значение (для кого-либо)', 'name': 'B1', 'definition': 'to have an important emotional effect on someone'
+					}
+				]
+			},
+			{'short_meaning': 'have been meaning to do sth', 'levels': [
+					{'examples': [
+							"I've been meaning to call you for weeks."
+						], 'ru': 'собираться сделать что-либо', 'name': 'B1', 'definition': 'to have been wanting and planning to do something'
+					}
+				]
+			},
+			{'short_meaning': 'be meant to do sth', 'levels': [
+					{'examples': [
+							"You're meant to shake the bottle first."
+						], 'ru': 'нужно', 'name': '', 'definition': 'If you are meant to do something, that is what you should do in order to behave correctly.'
+					}
+				]
+			},
+			{'short_meaning': 'mean well', 'levels': [
+					{'examples': [
+							"I know my parents mean well, but I wish they wouldn't interfere."
+						], 'ru': 'иметь добрые намерения, желать добра', 'name': '', 'definition': 'to intend to behave in a kind way'
+					}
+				]
+			},
+			{'short_meaning': 'I mean', 'levels': [
+					{'examples': [
+							"I mean, I don't dislike her."
+						], 'ru': 'ну, я хочу сказать', 'name': '', 'definition': 'something that people often say before they continue their sentence'
+					}
+				]
+			}
+		]
+	}
+]
