@@ -1,0 +1,335 @@
+{'head':
+     < div class = "dpos-h di-head normal-entry" >
+     < div class = "h2 tw-bw dhw dpos-h_hw di-title" > put < /div > <span class = "di-info" >
+     < div class = "posgram dpos-g hdib" > <span class = "pos dpos"
+     title = "A word that describes an action, condition or experience." > verb < /span > <span
+                                class = "gram dgram" > <a href = "/help/codes.html" > [< span class = "gcs" > <span class = "gc dgc" > T < /span >
+                                                                                        < / span >
+	] < /a > </span > </div >
+     < div > </div > <span class = "pron-info dpron-info" > <span class = "uk dloc" > <span class = "region dreg" > uk < /span > <span
+                                        class = "daud" >
+                                        < amp-audio controlslist = "nodownload" id = "ampaudio1" layout = "nodisplay" preload = "none" >
+                                                < div class = "hdib" fallback = "" >
+     < p > Your browser doesn't support HTML5 audio < /p >
+                                                < / div >
+                                                < source src = "/media/english-russian/uk_pron/u/ukp/ukpus/ukpushc016.mp3" type = "audio/mpeg" / >
+                                                < source src = "/media/english-russian/uk_pron_ogg/u/ukp/ukpus/ukpushc016.ogg" type = "audio/ogg" / >
+                                        < /amp-audio >
+                                        < div class = "i i-volume-up c_aud htc hdib hp hv-1 fon tcu tc-bd lmr-10 lpt-3"
+                                                on = "tap: ampaudio1.play" role = "button" tabindex = "0" >
+                                        < / div >
+     < / span > </span > <span class = "pron dpron" > / < span class = "ipa dipa" > pʊt < /span > / < /span > </span > <span
+     class = "pron-info dpron-info" > <span class = "us dloc" > <span class = "region dreg" > us < /span > <span class = "daud" >
+                                        < amp-audio controlslist = "nodownload" id = "ampaudio2" layout = "nodisplay" preload = "none" >
+                                                < div class = "hdib" fallback = "" >
+     < p > Your browser doesn't support HTML5 audio < /p >
+                                                < / div >
+                                                < source src = "/media/english-russian/us_pron/p/put/put__/put.mp3" type = "audio/mpeg" / >
+                                                < source src = "/media/english-russian/us_pron_ogg/p/put/put__/put.ogg" type = "audio/ogg" / >
+                                        < /amp-audio >
+                                        < div class = "i i-volume-up c_aud htc hdib hp hv-1 fon tcu tc-bd lmr-10 lpt-3"
+                                                on = "tap: ampaudio2.play" role = "button" tabindex = "0" >
+                                        < / div >
+     < / span > </span > </span >
+     < div class = "lmt--5" > </div > <span class = "d_br" > </span >
+     < div class = "irreg-infls hdib dinfls" > <span class = "inf-group dinfg" > <span class = "lab dlab" > present
+                                        participle < /span > <b class = "inf dinf" > putting < /b > </span > | < span class = "inf-group dinfg" > <span
+                                        class = "lab dlab" > past tense and past participle < /span > <b class = "inf dinf" > put < /b > </span > </div >
+     < / span >
+     < / div > ,
+     'sense_blocks': [
+                                    < div class = "sense-block pr dsense dsense-noh" >
+                                    < div class = "cid" id = "cld-ru-1-1" > </div >
+                                    < div class = "sense-body dsense_b" >
+                                    < div class = "phrase-block dphrase-block" >
+                                    < div class = "phrase-head dphrase_h" > <i class = "i i-caret-right dtrans fs18 lpb-4" > </i > <span
+                                        class = "phrase-title dphrase-title" > <b class = "phrase dphrase" > put sth down/in/on, etc < /b > </span >
+                                    < / div >
+                                    < div class = "phrase-body dphrase_b" >
+                                    < div class = "def-block ddef_block" data-wl-senseid = "ID_00013750_01" >
+                                        < div class= "dwl hax" >
+                                                < a amp-access = "loggedIn" amp-access-hide = "" class = "dwla wordlist-add-button"
+                                    on= "tap:AMP.setState({ stateGlobal: { wlSenseId: 'ID_00013750_01' } }), sidebarWordList.open"
+                                    title= "Add this meaning to a word list" >
+                                    < i aria-hidden = "true" class = "i i-plus" > </i >
+                                    < i class = "i i-list-ul" > </i >
+                                                < / a >
+                                                < a amp-access = "NOT loggedIn" class = "dwla wordlist-add-button" on = "tap:amp-access.login-sign-in"
+                                    title= "Add this meaning to a word list" >
+                                    < i aria-hidden = "true" class = "i i-plus" > </i >
+                                    < i class = "i i-list-ul" > </i >
+                                                < / a >
+                                        < / div >
+                                        < div class = "def-head ddef_h" > <span class = "def-info ddef-info" > <span
+                                                                class= "epp-xref dxref A1" > A1 < /span > </span >
+                                                < div class= "def ddef_d db" > to < a class = "query"
+                                    href= "https://dictionary.cambridge.org/dictionary/english-russian/move_1"
+                                                                title= "move" > move < /a > something to a < a class = "query"
+                                    href= "https://dictionary.cambridge.org/dictionary/english-russian/place_1"
+                                                                title= "place" > place < /a > or < a class = "query"
+                                    href= "https://dictionary.cambridge.org/dictionary/english-russian/position_1"
+                                    title= "position" > position < /a > </div >
+                                        < / div >
+                                        < div class = "def-body ddef_b" > <span class = "trans dtrans dtrans-se" lang = "ru" >
+                                    класть на/в и т. д. < /span >
+                                                < div class= "examp dexamp" > <span class = "eg deg" > Where have you put the < a class = "query"
+                                                                        href = "https://dictionary.cambridge.org/dictionary/english-russian/key_1"
+                                                                        title= "keys" > keys < /a >?</span > </div >
+                                                < div class = "examp dexamp" > <span class = "eg deg" > She put her < a class = "query"
+                                                                        href = "https://dictionary.cambridge.org/dictionary/english-russian/bag_1"
+                                                                        title= "bag" > bag < /a > on the < a class = "query"
+                                                                        href = "https://dictionary.cambridge.org/dictionary/english-russian/floor"
+                                                                        title = "floor" > floor < /a > . < /span > </div >
+                                                < div class = "examp dexamp" > <span class = "eg deg" > You can put < a class = "query"
+                                                                        href = "https://dictionary.cambridge.org/dictionary/english-russian/your"
+                                                                        title = "your" > your < /a > <a class = "query"
+                                                                        href = "https://dictionary.cambridge.org/dictionary/english-russian/coat_1"
+                                                                        title= "coat" > coat < /a > in the < a class = "query"
+                                                                        href = "https://dictionary.cambridge.org/dictionary/english-russian/car"
+                                                                        title = "car" > car < /a > . < /span > </div >
+                                                < div class = "examp dexamp" > <span class = "eg deg" > He put his < a class = "query"
+                                                                        href = "https://dictionary.cambridge.org/dictionary/english-russian/arm_1"
+                                                                        title= "arm" > arm < /a > around her. < /span > </div >
+                                        < / div >
+                                    < / div >
+                                    < / div >
+                                    < / div >
+                                    < / div >
+                                    < / div > , < div class = "sense-block pr dsense dsense-noh" >
+                                    < div class = "cid" id = "cld-ru-1-2" > </div >
+                                    < div class = "sense-body dsense_b" >
+                                    < div class = "phrase-block dphrase-block" >
+                                    < div class = "phrase-head dphrase_h" > <i class = "i i-caret-right dtrans fs18 lpb-4" > </i > <span
+                                        class= "phrase-title dphrase-title" > <b class = "phrase dphrase" > put sb in a mood/position,
+                                                etc < /b > </span > </div >
+                                    < div class = "phrase-body dphrase_b" >
+                                    < div class = "def-block ddef_block" data-wl-senseid = "ID_00013750_02" >
+                                        < div class= "dwl hax" >
+                                                < a amp-access = "loggedIn" amp-access-hide = "" class = "dwla wordlist-add-button"
+                                    on= "tap:AMP.setState({ stateGlobal: { wlSenseId: 'ID_00013750_02' } }), sidebarWordList.open"
+                                    title= "Add this meaning to a word list" >
+                                    < i aria-hidden = "true" class = "i i-plus" > </i >
+                                    < i class = "i i-list-ul" > </i >
+                                                < / a >
+                                                < a amp-access = "NOT loggedIn" class = "dwla wordlist-add-button" on = "tap:amp-access.login-sign-in"
+                                    title= "Add this meaning to a word list" >
+                                    < i aria-hidden = "true" class = "i i-plus" > </i >
+                                    < i class = "i i-list-ul" > </i >
+                                                < / a >
+                                        < / div >
+                                        < div class = "def-head ddef_h" > <span class = "def-info ddef-info" > <span
+                                                                class= "epp-xref dxref B2" > B2 < /span > </span >
+                                                < div class= "def ddef_d db" > to make someone or something be in a < a class = "query"
+                                    href= "https://dictionary.cambridge.org/dictionary/english-russian/particular"
+                                    title= "particular" > particular < /a > <a class = "query"
+                                    href= "https://dictionary.cambridge.org/dictionary/english-russian/situation"
+                                    title= "situation" > situation < /a > </div >
+                                        < / div >
+                                        < div class = "def-body ddef_b" > <span class = "trans dtrans dtrans-se" lang = "ru" >
+                                    приводить кого-либо в какое-либо настроение/ставить кого-либо в какое-либо положение и т.
+                                    д. < /span >
+                                                < div class = "examp dexamp" > <span class = "eg deg" > They'd had an < a class = "query"
+                                                                        href = "https://dictionary.cambridge.org/dictionary/english-russian/argument"
+                                                                        title= "argument" > argument < /a > and it had put her in a < a class = "query"
+                                                                        href = "https://dictionary.cambridge.org/dictionary/english-russian/bad"
+                                                                        title = "bad" > bad < /a > <a class = "query"
+                                                                        href = "https://dictionary.cambridge.org/dictionary/english-russian/mood"
+                                                                        title = "mood" > mood < /a > . < /span > </div >
+                                                < div class = "examp dexamp" > <span class = "eg deg" > This puts me in a very < a class = "query"
+                                                                        href = "https://dictionary.cambridge.org/dictionary/english-russian/difficult"
+                                                                        title = "difficult" > difficult < /a > <a class = "query"
+                                                                        href = "https://dictionary.cambridge.org/dictionary/english-russian/position_1"
+                                                                        title = "position" > position < /a > . < /span > </div >
+                                        < / div >
+                                    < / div >
+                                    < / div >
+                                    < / div >
+                                    < / div >
+                                    < / div > , < div class = "sense-block pr dsense" >
+                                    < div class = "cid" id = "cld-ru-1-3" > </div >
+                                    < h3 class = "sense-head dsense_h" > <span class = "sense-title dsense-title" > <strong class = "gw" > SAY < /strong > </span > </h3 >
+                                    < div class = "sense-body dsense_b" >
+                                    < div class = "def-block ddef_block" data-wl-senseid = "ID_00013750_03" >
+                                    < div class = "dwl hax" >
+                                    < a amp-access= "loggedIn" amp-access-hide = "" class = "dwla wordlist-add-button"
+                                        on = "tap:AMP.setState({ stateGlobal: { wlSenseId: 'ID_00013750_03' } }), sidebarWordList.open"
+                                        title = "Add this meaning to a word list" >
+                                        < i aria-hidden= "true" class = "i i-plus" > </i >
+                                        < i class= "i i-list-ul" > </i >
+                                    < / a >
+                                    < a amp-access= "NOT loggedIn" class = "dwla wordlist-add-button" on = "tap:amp-access.login-sign-in"
+                                        title = "Add this meaning to a word list" >
+                                        < i aria-hidden= "true" class = "i i-plus" > </i >
+                                        < i class= "i i-list-ul" > </i >
+                                    < / a >
+                                    < / div >
+                                    < div class= "def-head ddef_h" > <span class = "def-info ddef-info" > </span >
+                                    < div class = "def ddef_d db" > to say something using < a class = "query"
+                                    href= "https://dictionary.cambridge.org/dictionary/english-russian/particular"
+                                                title= "particular" > particular < /a > words < /div >
+                                    < / div >
+                                    < div class= "def-body ddef_b" > <span class = "trans dtrans dtrans-se" lang = "ru" >
+                                        излагать, выражать < /span >
+                                    < div class = "examp dexamp" > <span class = "eg deg" > I don't < a class = "query"
+                                    href= "https://dictionary.cambridge.org/dictionary/english-russian/know_1"
+                                    title= "know" > know < /a > <a class = "query"
+                                    href= "https://dictionary.cambridge.org/dictionary/english-russian/quite"
+                                                        title = "quite" > quite < /a > <strong class = "cl" > how to put this < /strong >, but I'm < a
+                                                        class= "query" href = "https://dictionary.cambridge.org/dictionary/english-russian/leave_1"
+                                    title= "leaving" > leaving < /a > . < /span > </div >
+                                    < / div >
+                                    < / div >
+                                    < / div >
+                                    < / div > , < div class = "sense-block pr dsense" >
+                                    < div class = "cid" id = "cld-ru-1-4" > </div >
+                                    < h3 class = "sense-head dsense_h" > <span class = "sense-title dsense-title" > <strong class = "gw" > WRITE < /strong > </span > </h3 >
+                                    < div class = "sense-body dsense_b" >
+                                    < div class = "def-block ddef_block" data-wl-senseid = "ID_00013750_04" >
+                                    < div class = "dwl hax" >
+                                    < a amp-access= "loggedIn" amp-access-hide = "" class = "dwla wordlist-add-button"
+                                        on = "tap:AMP.setState({ stateGlobal: { wlSenseId: 'ID_00013750_04' } }), sidebarWordList.open"
+                                        title = "Add this meaning to a word list" >
+                                        < i aria-hidden= "true" class = "i i-plus" > </i >
+                                        < i class= "i i-list-ul" > </i >
+                                    < / a >
+                                    < a amp-access= "NOT loggedIn" class = "dwla wordlist-add-button" on = "tap:amp-access.login-sign-in"
+                                        title = "Add this meaning to a word list" >
+                                        < i aria-hidden= "true" class = "i i-plus" > </i >
+                                        < i class= "i i-list-ul" > </i >
+                                    < / a >
+                                    < / div >
+                                    < div class = "def-head ddef_h" > <span class = "def-info ddef-info" > <span class = "epp-xref dxref A2" > A2 < /span >
+                                    < / span >
+                                    < div class = "def ddef_d db" > to write something < /div >
+                                    < / div >
+                                    < div class= "def-body ddef_b" > <span class = "trans dtrans dtrans-se" lang = "ru" >
+                                        писать < /span >
+                                    < div class = "examp dexamp" > <span class = "eg deg" > Please put < a class = "query"
+                                    href= "https://dictionary.cambridge.org/dictionary/english-russian/your"
+                                    title= "your" > your < /a > <a class = "query"
+                                    href= "https://dictionary.cambridge.org/dictionary/english-russian/name_1"
+                                                        title= "name" > name < /a > on the < a class = "query"
+                                    href= "https://dictionary.cambridge.org/dictionary/english-russian/list_1"
+                                                        title= "list" > list < /a > by < a class = "query"
+                                    href= "https://dictionary.cambridge.org/dictionary/english-russian/monday"
+                                    title= "Monday" > Monday < /a > <a class = "query"
+                                    href= "https://dictionary.cambridge.org/dictionary/english-russian/evening"
+                                    title= "evening" > evening < /a > . < /span > </div >
+                                    < / div >
+                                    < / div >
+                                    < / div >
+< / div >
+	], 'see_also': [ < div class = "xref see_also hax dxref-w lmt-25 lmb-25" >
+                                    < h3 class = "h3 bb fs16 lp-10 lmb-0" > <strong class = "xref-title dxref-t" > See also < /strong > </h3 >
+                                    < div class = "hax lp-10 lb lb-cm lbt0" >
+                                    < div class = "lcs" >
+                                    < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sth-across"
+                                        title= "meaning of put sth across" > <span class = "x-h dx-h" > <span class = "phrase" > put sth
+                                    across < /span > </span > </a > </div >
+                                    < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sth-aside"
+                                        title= "meaning of put sth aside" > <span class = "x-h dx-h" > <span class = "phrase" > put sth
+                                    aside < /span > </span > </a > </div >
+                                    < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sth-away"
+                                        title= "meaning of put sth away" > <span class = "x-h dx-h" > <span class = "phrase" > put sth
+                                    away < /span > </span > </a > </div >
+                                    < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sth-back"
+                                        title= "meaning of put sth back" > <span class = "x-h dx-h" > <span class = "phrase" > put sth
+                                    back < /span > </span > </a > </div >
+                                    < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sth-down"
+                                        title= "meaning of put sth down" > <span class = "x-h dx-h" > <span class = "phrase" > put sth
+                                    down < /span > </span > </a > </div >
+                                    < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sb-down"
+                                        title= "meaning of put sb down" > <span class = "x-h dx-h" > <span class = "phrase" > put sb
+                                    down < /span > </span > </a > </div >
+                                    < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sth-down-to-sth"
+                                        title= "meaning of put sth down to sth" > <span class = "x-h dx-h" > <span class = "phrase" > put sth down to
+                                    sth < /span > </span > </a > </div >
+                                    < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sth-forward"
+                                        title= "meaning of put sth forward" > <span class = "x-h dx-h" > <span class = "phrase" > put sth
+                                    forward < /span > </span > </a > </div >
+                                    < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sb-sth-in-sth"
+                                        title= "meaning of put sb/sth in sth" > <span class = "x-h dx-h" > <span class = "phrase" > put sb/sth in
+                                    sth < /span > </span > </a > </div >
+                                    < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sth-in"
+                                        title= "meaning of put sth in" > <span class = "x-h dx-h" > <span class = "phrase" > put sth
+                                    in < /span > </span > </a > </div >
+                                    < / div >
+                                    < amp-accordion >
+                                    < section expanded = "" >
+                                    < header class = "q150 ca_h hfocp lpl-0" >
+                                    < i class= "i i-plus ca_hi" > </i >
+                                    View all < /header >
+                                    < div class = "lpt-10 lcs" >
+                                    < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sth-into-sth-doing-sth"
+                                                        title= "meaning of put sth into sth/doing sth" > <span class = "x-h dx-h" > <span
+                                    class = "phrase" > put sth into sth/doing sth < /span > </span > </a > </div >
+                                        < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sth-off"
+                                                        title= "meaning of put sth off" > <span class = "x-h dx-h" > <span class = "phrase" > put sth
+                                    off < /span > </span > </a > </div >
+                                        < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sb-off-sth-sb"
+                                                        title= "meaning of put sb off (sth/sb)" > <span class = "x-h dx-h" > <span class = "phrase" > put sb
+                                    off(sth/sb) < /span > </span > </a > </div >
+                                    < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sth-on"
+                                    title = "meaning of put sth on" > <span class = "x-h dx-h" > <span class = "phrase" > put sth
+                                    on < /span > </span > </a > </div >
+                                    < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sth-out"
+                                    title = "meaning of put sth out" > <span class = "x-h dx-h" > <span class = "phrase" > put sth
+                                    out < /span > </span > </a > </div >
+                                        < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sb-out"
+                                    title = "meaning of put sb out" > <span class = "x-h dx-h" > <span class = "phrase" > put sb
+                                    out < /span > </span > </a > </div >
+                                        < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/be-put-out"
+                                    title = "meaning of be put out" > <span class = "x-h dx-h" > <span class = "phrase" > be put
+                                    out < /span > </span > </a > </div >
+                                        < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sb-through-sth"
+                                    title = "meaning of put sb through sth" > <span class = "x-h dx-h" > <span class = "phrase" > put sb
+                                    through sth < /span > </span > </a > </div >
+                                        < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sb-through"
+                                    title = "meaning of put sb through" > <span class = "x-h dx-h" > <span class = "phrase" > put sb
+                                    through < /span > </span > </a > </div >
+                                        < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sth-to-sb"
+                                    title = "meaning of put sth to sb" > <span class = "x-h dx-h" > <span class = "phrase" > put sth to
+                                    sb < /span > </span > </a > </div >
+                                        < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sth-together"
+                                    title = "meaning of put sth together" > <span class = "x-h dx-h" > <span class = "phrase" > put sth
+                                    together < /span > </span > </a > </div >
+                                        < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sth-up"
+                                    title = "meaning of put sth up" > <span class = "x-h dx-h" > <span class = "phrase" > put sth
+                                    up < /span > </span > </a > </div >
+                                        < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-sb-up"
+                                    title = "meaning of put sb up" > <span class = "x-h dx-h" > <span class = "phrase" > put sb
+                                    up < /span > </span > </a > </div >
+                                        < div class = "item lc lc1 lc-xs6-12 lpb-10 lpr-10" > <a
+                                    href = "https://dictionary.cambridge.org/dictionary/english-russian/put-up-with-sb-sth"
+                                    title = "meaning of put up with sb/sth" > <span class = "x-h dx-h" > <span class = "phrase" > put up
+                                    with sb/sth < /span > </span > </a > </div >
+                                    < / div >
+                                    < / section >
+                                    < / amp-accordion >
+                                    < / div >
+                                    < / div >
+	]
+}
